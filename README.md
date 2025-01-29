@@ -2,43 +2,48 @@
 Todolist with Typescript
 
 
-Instruktioner
+# Instruktioner
 Du ska göra en att-göra-lista i Typescript. 
 
 
 Vad du ska göra
 
-Krav för att-göra-listan:
-Varje uppgift ska ha:
-ett unikt id
-en beskrivande text
-om uppgifter är klar eller inte
+# Krav för att-göra-listan:
 
-Användaren ska kunna: 
-se alla uppgifter
-lägga till en uppgift
-ändra texten på en uppgift
-kryssa i om en uppgift är klar eller inte
-ta bort en uppgift
-rensa hela listan
+## Varje uppgift ska ha:
 
-Krav för Typescript:
-Du använder Typescript och alla dina js-filer är .ts
-Typescript kompilatorn ska ge 0 fel.
-Du skriver Typescript kod som är explicit.
-Du använder type eller interface för att beskriva en todo
+- ett unikt id
+- en beskrivande text
+- om uppgifter är klar eller inte
 
-Övriga krav:
-Du sparar och hämtar att-göra-listan i LocalStorage
-Om du väljer att importera bibliotek i frontend så måste du använda ViteLinks to an external site..
-0 errors i konsolen
+## Användaren ska kunna: 
 
-VG-del
-Instruktioner
+- se alla uppgifter
+- lägga till en uppgift
+- ändra texten på en uppgift
+- kryssa i om en uppgift är klar eller inte
+- ta bort en uppgift
+- rensa hela listan
+
+## Krav för Typescript:
+
+- Du använder Typescript och alla dina js-filer är .ts
+- Typescript kompilatorn ska ge 0 fel.
+- Du skriver Typescript kod som är explicit.
+- Du använder type eller interface för att beskriva en todo
+
+# Övriga krav:
+- Du sparar och hämtar att-göra-listan i LocalStorage
+- Om du väljer att importera bibliotek i frontend så måste du använda ViteLinks to an external site..
+- 0 errors i konsolen
+
+
+# VG-del
+### Instruktioner: 
 Istället för LocalStorage ska du använda ett s.k Backend-as-a-Service som SupabaseLinks to an external site. (open-source) eller FirebaseLinks to an external site. (Google). För dessa tjänster kan du alltså använda en databas utan att skapa en egen server. Ta hjälp av dokumentation på tjänstens webbplats och även stöd från Chat GPT eller liknande. D
 
 
-Krav för VG-del
+# Krav för VG-del
 
 Skapa authentisering där användaren loggar in med e-mail och lösenord och är betrodd till sin egen tillhörande att-göra-lista.
 Använda CRUD för att skapa, hämta, uppdatera och ta bort en todo för den inloggade användarens att-göra-lista
