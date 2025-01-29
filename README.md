@@ -55,35 +55,17 @@ I din readme-fil på github ska du ha med ett resonemang kring din kod. I denna 
 VG-nivån bedöms genom kvalitén på koden i kombination med din förmåga att se just styrkor och brister i den. Detta betyder att om din kod har allt för låg kvalité räcker det inte med resonemang kring det för att rädda upp, men det betyder också att ingen kod behöver vara helt perfekt men det är bra att du själv kan peka på de brister du då ser.
 
 
-Kriterier för bedömning
+# Kriterier för bedömning
 Icke Godkänd (IG), Godkänd (G) eller Väl Godkänd (VG)
 
-Godkänd (G)
+## Godkänd (G)
 Du uppfyller alla Godkänt-krav
 
-
-Väl Godkänd (VG)
+## Väl Godkänd (VG)
 Du uppfyller alla krav för Väl godkänt
 
-Börja uppgift / Din inlämning
-Du börjar och lämnar in din uppgift genom Github Classroom på denna länk.
-Återkoppling ges i Canvas
-Matris
-Kunskapskontroll - Todo-list i Typescript
-Kunskapskontroll - Todo-list i Typescript
-Kriterier	Bedömningar
-Det här kriteriet är länkat till ett lärandemålBeskrivning av kriterium
-Full poäng
-Inga poäng
- Det här kriteriet är länkat till ett lärandemål(Färdighet) Bygga frontend för webbapplikationer med Javascript utan ramverk/bibliotek (VanillaJS)
-Väl godkänd - Istället utan briser eller missar, eller bara i sådan omfattning att de knappt märks eller påverkar slutresultatet. Samt dessutom nyanserat resonera kring styrkor och brister i genomförandet.
-Godkänd - Kan utan allvarliga brister eller missar på egen hand bygga frontend för webbapplikationer med Javascript utan ramverk/bibliotek (VanillaJS)
-Icke Godkänd
- Det här kriteriet är länkat till ett lärandemål(Kunskap) Typescript
-Väl godkänd är inte tillämpbar
-Godkänd - Kan översiktligt redogöra för- och nackdelar och dess tillämpningar i Javascript såsom inbyggda typer, arrayer, funktioner, unions/intersections, types, interfaces, generics, utility types, narrowing/typeguards e.t.c
-Icke Godkänd
- Det här kriteriet är länkat till ett lärandemål(Färdighet) Använda Typescript i frontendapplikationer med Javascript utan ramverk
-Väl godkänd är inte tillämpbar
-Kan utan allvarliga brister implementera Typescript i ett Javascriptprojekt utan ramverk.
-Icke godkänt
+# Börja uppgift / Din inlämning
+
+- Du börjar och lämnar in din uppgift genom Github Classroom på denna länk.
+- Återkoppling ges i Canvas
+
